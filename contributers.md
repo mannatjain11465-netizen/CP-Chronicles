@@ -1,4 +1,6 @@
 | Name| Github-ID  | College name |  
+|:-------------|:------------|:----------------|
+| Jai Aditya | JAS-1123 | IIIT Allahabad |
 |Asra Tabassum|Tabassumasra05|IIIT Allahabad|
 
 |Suyash|Skr-suyash|IIIT Allahabad|
