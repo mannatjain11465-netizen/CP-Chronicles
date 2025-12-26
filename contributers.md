@@ -38,5 +38,6 @@
 | Khushi Shorey          | khushishorey            | IIIT Allahabad |
 | Manisha katariya       | chanchukatariya5        | IIIT Allahabad                                                   |
 | Sayed Al Amaan Zaidi           | amaan1114           | Rishihood University                                   |
+|Aditya Singh            | adityasingh-0803         | BVDUCOEP                                                        |
 <!-- ADD ABOVE THIS -->
 <!-- example | Korvac | Betty | Reyansh College | -->
